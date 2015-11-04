@@ -1,0 +1,13 @@
+## Creative AI: Overview
+
+**Creative AI** is about a subsection of artificial intelligence that deals with sequence modeling and generation using Python. There are three parts to this project: a [warmup](./2.-Warmup), a [core](./3.-Core), and a [reach](./4.-Reach). 
+
+In the warmup, you will implement several short functions to get comfortable with Python lists and dictionaries, which will be used extensively throughout the project. 
+
+For the core, you will write a program that uses the structure of a chosen artist's lyrics in order to randomly **generate similar lyrics**: we chose the lyrics of The Beatles for the starter code, but you can choose any artist you like, as long as your get our approval first. To write this program, you will draw on methods from a field of AI called [natural language processing](./Terminology-and-Definitions#natural-language-processing) (NLP), which is about the interaction of computers and human languages.
+
+For the reach, you will extend the concepts from the core and use your own creativity to write a program that generates **unique, synthesized melodies** (that you can actually save, play, and listen to!) based on musical data in text form. Don't worry if you don't have any background in music; all the knowledge you need will be provided. 
+
+If you're curious, we created demo videos for sample <a href="https://youtu.be/Z46LvHwgygs?list=PL2BYDiR6uDOJzYCJ7QuuQz-hWvQeYN5Nx" target="_blank">generated lyrics</a> and <a href="https://youtu.be/RrHrRqZ3pUM?list=PL2BYDiR6uDOJzYCJ7QuuQz-hWvQeYN5Nx" target="_blank">generated music</a> using our implementation of the project.
+
+*Note: because this project teaches a variety of concepts and a few new Python constructs, you should read the entire spec, including the concepts and terminology sections, before beginning to code. When you do begin to code, make sure to start with the warmup!*

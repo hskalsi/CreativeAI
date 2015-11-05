@@ -137,4 +137,4 @@ mySong = [ ('e4', 4), ('d4', 4), ('c4', 4) ]
 pysynth.make_wav(mySong, fn='test.wav')
 ```
 
-Try running this in the Python interpreter and watch what happens!
+Try running this in the Python interpreter from the root Creative AI directory and watch what happens!

@@ -1,6 +1,6 @@
 ## [Project Overview] (.)
 
-1. [Proposal Details] (./1.-Proposal-Details)
+1. [Proposal] (./1.-Proposal-Details)
 
 2. [Warmup] (./2.-Warmup)
 

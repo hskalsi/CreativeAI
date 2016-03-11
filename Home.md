@@ -11,3 +11,10 @@ For the reach, you will extend the concepts from the core and use your own creat
 If you're curious, we created demo videos for sample <a href="https://youtu.be/Z46LvHwgygs?list=PL2BYDiR6uDOJzYCJ7QuuQz-hWvQeYN5Nx" target="_blank">generated lyrics</a> and <a href="https://youtu.be/RrHrRqZ3pUM?list=PL2BYDiR6uDOJzYCJ7QuuQz-hWvQeYN5Nx" target="_blank">generated music</a> using our implementation of the project.
 
 *Note: because this project teaches a variety of concepts and a few new Python constructs, you should read the entire spec, including the concepts and terminology sections, before beginning to code. When you do begin to code, make sure to start with the warmup!*
+
+###Project Staff
+- Emma Azelborn (eaze@umich.edu)
+- Madeline Endres (endremad@umich.edu)
+- Helen Hagos (hahagos@umich.edu)
+- Grace Kendall (grackend@umich.edu)
+- Meghana Shankar (meghanas@umich.edu)

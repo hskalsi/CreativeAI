@@ -11,9 +11,13 @@
 In this project, you will be using Python 2.7. To help you get started coding in Python, here are some links to short video tutorials. While most of this material will be covered in lecture, these videos can be used for reference if need be. They also emphasize features of Python that might be helpful for this project.
 
 [Python Introduction](https://youtu.be/6XXH2tXTQ9g)
+
 [Python While loops](https://youtu.be/Gd78bC5rsrk)
+
 [Python Lists](https://youtu.be/VsZ6yqqbY0U)
+
 [Python For loops](https://youtu.be/sdScQapHvXU)
+
 
 ## Python: Classes
 

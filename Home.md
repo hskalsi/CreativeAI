@@ -13,8 +13,7 @@ If you're curious, we created demo videos for sample <a href="https://youtu.be/Z
 *Note: because this project teaches a variety of concepts and a few new Python constructs, you should read the entire spec, including the concepts and terminology sections, before beginning to code. When you do begin to code, make sure to start with the warmup! Also, be sure that you are using Python 2.7 for this project. The distribution code is not compatible with Python 3. If you are working on a Windows PC, follow <a href="https://eecs183.org/docs/git_and_python_on_windows/" target="_blank">these instructions</a> to download Git and Python.*
 
 ###Project Staff
+- Brady Mathieson (bradmath@umich.edu)
 - Emma Azelborn (eaze@umich.edu)
-- Madeline Endres (endremad@umich.edu)
-- Helen Hagos (hahagos@umich.edu)
-- Grace Kendall (grackend@umich.edu)
 - Meghana Shankar (meghanas@umich.edu)
+- Nick Murray (njmurray@umich.edu)

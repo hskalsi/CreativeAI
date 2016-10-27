@@ -49,4 +49,4 @@ Training is the process by which most artificial intelligence programs learn fro
 
 A token is a single data point. For the core this means a word, with the only difference between a token and a word being that a word might have capitalization, punctuation, or other forms of noise. A token is a word after processing to make sure that semantically similar words like *ringo* and *Ringo* are reduced to the same basic word - likely *ringo*.
 
-*Thanks to Reed Coke (current Ph.D. student in AI and former 183 GSI) for writing these.*
+*Thanks to Reed Coke (former 183 GSI) for writing these.*

@@ -15,5 +15,7 @@ If you're curious, we created demo videos for sample <a href="https://youtu.be/Z
 ###Project Staff
 - Brady Mathieson (bradmath@umich.edu)
 - Emma Azelborn (eaze@umich.edu)
+- Hannah Westra (hmwestra@umich.edu)
 - Meghana Shankar (meghanas@umich.edu)
 - Nick Murray (njmurray@umich.edu)
+- Rose Howell (rchowell@umich.edu)

@@ -1,1 +1,1 @@
-**MM/DD**: spec release initial version
+**11/06**: spec release initial version

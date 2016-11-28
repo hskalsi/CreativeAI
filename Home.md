@@ -17,7 +17,6 @@ If you're curious, we created demo videos for sample <a href="https://youtu.be/Z
 - Emma Azelborn (eaze@umich.edu)
 - Hannah Westra (hmwestra@umich.edu)
 - Hiromichi Cho (haodizc@umich.edu)
-- Lise Gorelick (goralisa@umich.edu)
 - Meghana Shankar (meghanas@umich.edu)
 - Nick Murray (njmurray@umich.edu)
 - Rose Howell (rchowell@umich.edu)

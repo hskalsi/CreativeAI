@@ -10,6 +10,8 @@
 
 5. [Grading and Key Dates] (./5.-Grading-Policy-and-Dates)
 
+6. New Reach Section (Fix rest late)
+
 [Concepts] (./Concepts)
 
 [Terminology and Definitions] (./Terminology-and-Definitions)

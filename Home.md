@@ -4,9 +4,9 @@
 
 In the warmup, you will implement several short functions to get comfortable with Python lists and dictionaries, which will be used extensively throughout the project. 
 
-For the core, you will write a program that uses the structure of a chosen artist's lyrics in order to randomly **generate similar lyrics**: we chose the lyrics of The Beatles for the starter code, but you can choose any artist you like, as long as your get our approval first. To write this program, you will draw on methods from a field of AI called [natural language processing](./Terminology-and-Definitions#natural-language-processing) (NLP), which is about the interaction of computers and human languages.
+For the core, you will write a program that uses the structure of a chosen artist's lyrics and notes in order to randomly **generate similar songs**: we chose the lyrics of The Beatles for the starter code, but you can choose any artist you like, as long as your get our approval first. To write this program, you will draw on methods from a field of AI called [natural language processing](./Terminology-and-Definitions#natural-language-processing) (NLP), which is about the interaction of computers and human languages.
 
-For the reach, you will extend the concepts from the core and use your own creativity to write a program that generates **unique, synthesized melodies** (that you can actually save, play, and listen to!) based on musical data in text form. Don't worry if you don't have any background in music; all the knowledge you need will be provided. 
+For the reach, you will extend the concepts from the core by using your own creativity. Part of the Reach will revolve around your ability to extend the complexity of the songs or lyrics your models produce. Part of the Reach will revolve around presenting your creation in new and interesting ways. Both parts will combine to create a project that is entirely about your interests, your creation as expressed in programming.
 
 If you're curious, we created demo videos for sample <a href="https://youtu.be/Z46LvHwgygs?list=PL2BYDiR6uDOJzYCJ7QuuQz-hWvQeYN5Nx" target="_blank">generated lyrics</a> and <a href="https://youtu.be/RrHrRqZ3pUM?list=PL2BYDiR6uDOJzYCJ7QuuQz-hWvQeYN5Nx" target="_blank">generated music</a> using our implementation of the project.
 

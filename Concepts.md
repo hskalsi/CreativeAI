@@ -1,10 +1,10 @@
 ## Sections
 
-- [General Python Tutorials] (#general-python)
-- [Python Classes] (#python-classes)
-- [Inheritance] (#python-inheritance)
-- [Tuples] (#python-tuples)
-- [How PySynth Works] (#how-pysynth-works)
+- [General Python Tutorials](#general-python)
+- [Python Classes](#python-classes)
+- [Inheritance](#python-inheritance)
+- [Tuples](#python-tuples)
+- [How PySynth Works](#how-pysynth-works)
 
 ## Python: General Tutorials
 

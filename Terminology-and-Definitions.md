@@ -1,11 +1,11 @@
 ## Sections
 
-- [Artificial Intelligence] (#artificial-intelligence)
-- [Natural Language Processing] (#natural-language-processing)
-- [Language Model] (#language-model)
-- [N-gram] (#n-gram)
-- [Training] (#training)
-- [Token] (#token)
+- [Artificial Intelligence](#artificial-intelligence)
+- [Natural Language Processing](#natural-language-processing)
+- [Language Model](#language-model)
+- [N-gram](#n-gram)
+- [Training](#training)
+- [Token](#token)
 
 ## Artificial Intelligence
 

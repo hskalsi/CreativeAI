@@ -1,6 +1,6 @@
 ## Sections
 
-- [General Python Tutorials](#general-python)
+- [General Python Tutorials](#python-general-tutorials)
 - [Python Classes](#python-classes)
 - [Inheritance](#python-inheritance)
 - [Tuples](#python-tuples)

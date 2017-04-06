@@ -15,7 +15,6 @@ If you're curious, we created demo videos for sample <a href="https://youtu.be/Z
 ### Project Staff
 - Meghana Shankar (meghanas@umich.edu)
 - Nick Murray (njmurray@umich.edu)
-- Chandana Neerukonda (cneeruko@umich.edu)
 - Eleni Mouzakis (emouzakis@umich.edu)
 - Katherine Kampf (kkampf@umich.edu)
 - Sherin Azboun (shazboun@umich.edu)

@@ -17,7 +17,7 @@ If you're curious, we created demo videos for sample <a href="https://youtu.be/Z
 * Jacob Barr
 * Diana Gage
 * Eleni Mouzakis
-* Jordan Bottrel
+* Jordan Bottrell
 * Hannah Westra
 * Hiromichi Cho
 * Yibo Pi
